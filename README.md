@@ -14,6 +14,7 @@ Godot4.1.2のmono版を使ってください。C#のコードに対して一度�
 
 ## シーン(tscn)
 sprite_scence_cs.tscn ... ノード版
+
 sprite_server_cs.tscn ... サーバAPI版
 
 何れかをプロジェクトの基点シーンとして選択してください。
@@ -22,7 +23,9 @@ sprite_server_cs.tscn ... サーバAPI版
 以下の対応を取っています。
 
 SpriteCS.cs　→　sprite.gd
+
 SpriteSceneCs.cs　→sprite_scene_gd.gd
+
 SpriteServerCs.cs　→sprite_server_gd.gd
 
 
