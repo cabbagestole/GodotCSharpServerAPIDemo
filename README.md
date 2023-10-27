@@ -36,7 +36,7 @@ main.gdでFPSの上限をセットしています。PC が火を噴かないよ�
 
 スプライトを格納するコレクションspritesですが、Godot.Collections.ArrayではなくC#のSystem.Collections.Generic.Listを使ってます。
 
-GodotのArrayはC#から呼び出して要素数を取得しようとすると0が返ってくるので、面倒くさいからC#のListで代用しています。
+GodotのArrayはC#側コードから呼び出して要素数を取得しようとすると0が返る不具合の回避策ですが、そこまで厳密に合わせる必要もないでしようからC#のListで代用しています。
 
 
 
