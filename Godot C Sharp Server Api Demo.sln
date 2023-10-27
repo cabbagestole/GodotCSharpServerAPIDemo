@@ -1,0 +1,19 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godot C Sharp Server Api Demo", "Godot C Sharp Server Api Demo.csproj", "{971BEA99-3087-4F40-AEFA-63B93A0D93BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+	Debug|Any CPU = Debug|Any CPU
+	ExportDebug|Any CPU = ExportDebug|Any CPU
+	ExportRelease|Any CPU = ExportRelease|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{971BEA99-3087-4F40-AEFA-63B93A0D93BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{971BEA99-3087-4F40-AEFA-63B93A0D93BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{971BEA99-3087-4F40-AEFA-63B93A0D93BF}.ExportDebug|Any CPU.ActiveCfg = ExportDebug|Any CPU
+		{971BEA99-3087-4F40-AEFA-63B93A0D93BF}.ExportDebug|Any CPU.Build.0 = ExportDebug|Any CPU
+		{971BEA99-3087-4F40-AEFA-63B93A0D93BF}.ExportRelease|Any CPU.ActiveCfg = ExportRelease|Any CPU
+		{971BEA99-3087-4F40-AEFA-63B93A0D93BF}.ExportRelease|Any CPU.Build.0 = ExportRelease|Any CPU
+	EndGlobalSection
+EndGlobal
