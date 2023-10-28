@@ -6,9 +6,9 @@ ueshitaさんの作成したベンチマーク(GDScript, GDExtention(C++))のノ
 https://github.com/ueshita/GDExtensionDemo
 
 
-ServerAPIがとても速そうだなと感銘をうけたので、
-　
-オリジナルを模写して C#でも同様に動作するノード版とServerAPI版を作成しました。
+ServerAPIがとても速そうだなと感銘をうけたので、オリジナルを模写して
+
+C#でも同様に動作するノード版とServerAPI版を作成しました。
 
 ## ビルド関係
 Godot4.1.2のmono版を使ってください。C#のコードに対して一度ビルドをかける必要があります。
